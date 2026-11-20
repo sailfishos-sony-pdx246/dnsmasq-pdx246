@@ -1,0 +1,15 @@
+# SPDX-FileCopyrightText: Johannes Meyer zum Alten Borgloh
+# SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only
+
+# Licensing for files that cannot carry a header. upstream/ is dnsmasq's own
+# repository (a submodule) with its own licensing.
+
+version = 1
+SPDX-PackageName = "dnsmasq for the Sony Xperia 10 VI (pdx246)"
+SPDX-PackageSupplier = "Johannes Meyer zum Alten Borgloh"
+SPDX-PackageDownloadLocation = "NOASSERTION"
+
+[[annotations]]
+path = ".gitmodules"
+SPDX-FileCopyrightText = "Johannes Meyer zum Alten Borgloh"
+SPDX-License-Identifier = "GPL-2.0-only OR GPL-3.0-only"
